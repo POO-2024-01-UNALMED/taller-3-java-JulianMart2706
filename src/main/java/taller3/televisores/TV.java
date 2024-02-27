@@ -18,8 +18,8 @@ public class TV{
         TV.numTV++;
     }
 
-    public static int getNumTW() {
-        return tv.numTV;
+    public static int getNumTV() {
+        return numTV;
     }
 
     public static void setNumTV(int numTV) {
