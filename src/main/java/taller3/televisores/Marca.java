@@ -1,3 +1,5 @@
+package taller3.televisores;
+
 public class Marca{
     private String nombre;
 
@@ -6,7 +8,7 @@ public class Marca{
     }
 
     public String getnombre(){
-        return this.nombre
+        return this.nombre;
     }
 
     public void setnombre(String nombre){
